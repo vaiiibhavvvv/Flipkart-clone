@@ -1,0 +1,2 @@
+# Flipkart-clone
+ The Flipkart Clone project is a full-stack e-commerce web application that mimics the functionality and design of Flipkart, a popular online shopping platform. This project is built using the MERN stack, which consists of MongoDB, Express.js, React.js, and Node.js. The primary objective of this project is to provide a comprehensive understanding of building a modern, scalable, and responsive e-commerce application using these technologies.
